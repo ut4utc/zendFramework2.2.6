@@ -1,5 +1,5 @@
-ZendSkeletonApplication
-=======================
+My simple ZendSkeletonApplication
+=================================
 
 Introduction
 ------------
