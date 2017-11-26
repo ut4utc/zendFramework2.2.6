@@ -1,1 +1,1 @@
-# zendFramework2.2.6
+# Learn Zend Framework v2.2.6
